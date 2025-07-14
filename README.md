@@ -40,29 +40,14 @@ Nothing fancy. If you’ve got Python installed, you’re good to go.
 
 ---
 
-## 🧪 Example
+## 📸 Before & After
 
 **Before:**
-```
-📂 Downloads/
-├── image.JPG
-├── report.pdf
-├── notes.txt
-├── script.py
-```
+![Before Screenshot](./before.png)
 
-**After running the script:**
-```
-📂 Downloads/
-├── jpg/
-│   └── image.JPG
-├── pdf/
-│   └── report.pdf
-├── txt/
-│   └── notes.txt
-├── py/
-│   └── script.py
-```
+**After:**
+![After Screenshot](./after.png)
+
 
 
 ## 🧾 A few things to note:
