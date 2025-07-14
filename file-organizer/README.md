@@ -43,10 +43,10 @@ Nothing fancy. If you’ve got Python installed, you’re good to go.
 ## 📸 Before & After
 
 **Before:**  
-![Before Screenshot](file-organizer/screenshots/before.png)
+![Before Screenshot](screenshots/before.png)
 
 **After:**  
-![After Screenshot](file-organizer/screenshots/after.png)
+![After Screenshot](screenshots/after.png)
 
 
 
