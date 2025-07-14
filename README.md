@@ -42,17 +42,17 @@ Nothing fancy. If you’ve got Python installed, you’re good to go.
 
 ## 🧪 Example
 
-Before:
-
+**Before:**
+```
 📂 Downloads/
 ├── image.JPG
 ├── report.pdf
 ├── notes.txt
 ├── script.py
+```
 
-
-After running the script:
-
+**After running the script:**
+```
 📂 Downloads/
 ├── jpg/
 │   └── image.JPG
@@ -62,9 +62,8 @@ After running the script:
 │   └── notes.txt
 ├── py/
 │   └── script.py
+```
 
-
----
 
 ## 🧾 A few things to note:
 - It skips hidden files and anything without an extension.
