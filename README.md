@@ -3,7 +3,7 @@
 *Author:* Kartikey Tripathi  
 *Date:* July 2025  
 
-### What it does:  
+### ❓ What it does:  
 A small and beginner-friendly Python script that helps you organize the mess in any folder.  
 It simply looks at all the files in a directory, checks their extensions, and puts them into folders named after those extensions.  
 So .jpg files go into a jpg folder, .pdf files into a pdf folder — that kind of stuff.  
